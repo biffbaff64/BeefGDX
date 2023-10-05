@@ -1,0 +1,14 @@
+FileVersion = 1
+
+[Project]
+Name = "BeefGdx"
+StartupObject = "BeefGdx.Program"
+
+[[ProjectFolder.Items]]
+Type = "AutoFolder"
+Name = "Gdx"
+
+[[ProjectFolder.Items.Items]]
+Type = "IgnoreFolder"
+Name = "Core"
+AutoInclude = true
